@@ -1,4 +1,5 @@
 # Riddhi_demo
 This is my first repository
 <br>
-Author : Rachakonda Riddhi
+Author : R.Riddhi
+
